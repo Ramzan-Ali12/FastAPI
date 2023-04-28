@@ -1,5 +1,5 @@
 
-# FastAPI Project
+# FastAPI
 
 This is a project that uses FastAPI, a modern, fast, and high-performance web framework for building APIs with Python.
 
