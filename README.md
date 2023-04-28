@@ -1,7 +1,7 @@
 
 # FastAPI
 
-This is a project that uses FastAPI, a modern, fast, and high-performance web framework for building APIs with Python.
+FastAPI, a modern, fast, and high-performance web framework for building APIs with Python.
 
 ## Features
 
@@ -22,7 +22,8 @@ You will also need an ASGI server, such as Uvicorn or Hypercorn, to run your Fas
 
 `pip install uvicorn[standard]`
 
-After installing FastAPI and Uvicorn, you can create a file named `main.py` and write your first FastAPI application. Here is a simple example³⁵:
+After installing FastAPI and Uvicorn, you can create a file named `main.py` and write your first FastAPI application
+Here is a simple example:
 
 ```python
 # Import FastAPI
@@ -39,7 +40,7 @@ def hello_world():
     return {"message": "Hello World"}
 ```
 
-To run your application, you can use the following command in your terminal³⁵:
+To run your application, you can use the following command in your terminal:
 
 `uvicorn main:app --reload`
 
